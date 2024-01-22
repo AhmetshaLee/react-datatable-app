@@ -1,0 +1,12 @@
+.table-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.custom-table {
+  width: 100%;
+}
+
+.custom-input {
+  margin: 20px 0;
+}
