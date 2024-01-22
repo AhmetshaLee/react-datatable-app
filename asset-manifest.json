@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-datatable-app/static/css/main.aa7ee6b3.css",
+    "main.js": "/react-datatable-app/static/js/main.25b1481e.js",
+    "index.html": "/react-datatable-app/index.html",
+    "main.aa7ee6b3.css.map": "/react-datatable-app/static/css/main.aa7ee6b3.css.map",
+    "main.25b1481e.js.map": "/react-datatable-app/static/js/main.25b1481e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa7ee6b3.css",
+    "static/js/main.25b1481e.js"
+  ]
+}
